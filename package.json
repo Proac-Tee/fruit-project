@@ -1,0 +1,15 @@
+{
+  "name": "sportsproject",
+  "version": "1.0.0",
+  "description": "SportsProject",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taiwo Babatunde Yusuf",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.10"
+  }
+}
